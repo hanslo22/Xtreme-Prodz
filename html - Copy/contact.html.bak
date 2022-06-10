@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>	
+	<head>
+        <meta charset="utf-8" />
+        <title>Contacts | XP</title>
+		<link rel="stylesheet" href="css/contact.css">
+		<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.13.0/css/all.css" />
+			<link rel="stylesheet" href="https://fontawesome.com/icons/phone-office?s=thin" />
+    </head>
+
+    <body>
+<!-- Barre de navigation -->
+  <nav>
+		<h1>Xtreme Prodz </h1>
+		<img src="images/logo.png" width="80 px">
+		<div class="onglets">
+      <p class="link"><a href="index.html"> Accueil</a> </p>
+      <p class="link"><a href="services.html">Services </a> </p>
+      <p class="link"><a href="#">Contacts </a></p>
+      <p class="link"> <a href="loisirs.html">Loisirs</a></p>
+      <p class="link"> <a href="rdv.html">Rendez-Vous</a></p>
+	  <p class="link"> <a href="rdv.html">A propos de Nous</a></p>
+	        <form>
+				<input type="search" placeholder="Rechercher">
+			</form>
+      
+      
+         </div>
+  </nav>
+  <header>
+     <h1>Contactez-Nous pour des  services de meilleures qualit&eacute;s.</h1>
+     
+   </header>
+  <!-- Fin du header -->
+		<div class="contact">
+		   <button class="wa">Ecrivez nous sur WhatsApp <a href=" https://wa.me/50944035395">ici</a> </button>
+	       <button class="mail">Contactez-Nous par mail <a href="mailto:xtremeprodz34@gmail.com">ici</a> </button>
+		   <button class="mail">Suivez nous sur  <a href="facebook.com/xtdmarketing">Facebook</a> </button>
+		   <button class="mail">Suivez nous sur <a href="instagram.com/xtreme_d_marketing_agency?r=nametag">Instagram</a> </button>
+		   <button class="mail">Suivez nous sur <a href="vm.tiktok.com/ZMN82FknH/">Tiktok</a> </button>
+		</div>
+  
+  
+  
+  
+  <!-- Pied de page -->
+  <footer>
+  
+    <p>&copy; Contactez-nous au (+509)4403-53 95</p>
+	<p>&copy; Xtreme Prodz | Juin 2022</p>
+	<p>Prepare par : Lenerson Max DORVILIER | Hans-Love LOUIS</p>
+    <div class="social-media">
+      <p><i class="fab fa-facebook-f" href="facebook.com"></i></p>
+      <p><i class="fab fa-twitter"></i></p>
+      <p><i class="fab fa-instagram"></i></p>
+      <p><i class="fab fa-linkedin-in"></i></p>
+    </div>
+  </footer>
+  <!-- Fin du pied de page -->
+  
+</body>
+</html>
